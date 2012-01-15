@@ -4,7 +4,7 @@ How this program works:
 
 It executes itself into the System Tray as an icon and then goes silent. If you ever want to quit just click on the icon and choose "Exit" (please do not attempt to kill the program from the task manager because it will break some of your windows).
 
-Ctrl + Shift + Q : Make the currently focused window (any windows minus some special windows) with no titlebar/borders.
+Ctrl + Shift + Q : Toggle titlebar/borders in currently focused window (any windows minus some special windows).
 
 Alt + Right click drag : Resize the currently focused window with the mouse.
 
